@@ -11,11 +11,12 @@ I enjoy working on real-world datasets to uncover patterns, validate hypotheses,
 ---
 
 ## Table of Contents  
-## Portfolio Projects  
-## Technical Skills  
-## Education  
-## Certifications  
-## Contact  
+- [Portfolio Projects](#portfolio-projects)
+- [Technical Skills](#technical-skills)
+- [Education](#education)
+- [Certifications](#certifications)
+- [Contact](#contact)
+
 
 ---
 
