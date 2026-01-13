@@ -1,21 +1,21 @@
 # Data-Analysis-Portfolio
-Hi, I'm Amartya 👋   Data Analyst | Python, SQL, Power BI | MS Computer Science @ Purdue University
+Hi, I'm Amartya Mishra👋   Data Analyst | Python, SQL, Power BI | MS Computer Science @ Purdue University
 
 ---
 
 ## About  
-I am a Master’s student in Computer Science at Purdue University with prior industry experience at Ericsson, where I built Python-based automation and data analysis workflows to improve operational efficiency. I specialize in transforming raw data into meaningful insights using Python, SQL, Power BI, and R, with experience across retailand e-commerce analytics.  
+I am a Master’s student in Computer Science at Purdue University with prior industry experience at Ericsson, where I worked with Linux-based systems to analyze network performance and resolve connectivity issues, developing a strong foundation in analytical problem-solving. I specialize in transforming raw data into meaningful insights using Python, SQL, Power BI, and R, with experience across retail and e-commerce analytics.  
 
 I enjoy working on real-world datasets to uncover patterns, validate hypotheses, and build predictive models that support better business decisions.
 
 ---
 
 ## Table of Contents  
-- Portfolio Projects  
-- Technical Skills  
-- Education  
-- Certifications  
-- Contact  
+## Portfolio Projects  
+## Technical Skills  
+## Education  
+## Certifications  
+## Contact  
 
 ---
 
@@ -46,7 +46,7 @@ A collection of hands-on business analytics problems solved using Python, Pandas
 
 ## Technical Skills  
 
-- **Programming & Analytics:** Python, Pandas, NumPy, Scikit-learn, R  
+- **Programming & Analytics:** Python, Pandas, NumPy, Scikit-learn, R, Flask  
 - **Data Visualization:** Power BI, Matplotlib, Seaborn, Plotly  
 - **Databases:** SQL, MySQL, Microsoft SQL Server  
 - **Data Wrangling & ETL:** Excel, Pandas  
@@ -60,7 +60,7 @@ A collection of hands-on business analytics problems solved using Python, Pandas
 Master of Science in Computer Science  
 Jan 2025 – Dec 2026  
 
-Relevant Coursework: Statistical Computing, R Programming for Data Science, Database Management Security, Data Structures & Algorithms  
+Relevant Coursework: Statistical Computing, R Programming for Data Science, Database Management Security, Deep Learning, Big Data Systems, Data Structures & Algorithms  
 
 **Siksha 'O' Anusandhan University, India**  
 Bachelor of Technology in Computer Science and Engineering  
@@ -80,7 +80,7 @@ Aug 2019 – Aug 2023
 ## Contact  
 
 📧 Email: mishra.amartya5@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+🔗 LinkedIn: https://www.linkedin.com/in/amartya-mishra-b7a447230/
 
 ---
 
